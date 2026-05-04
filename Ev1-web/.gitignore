@@ -5,3 +5,10 @@ __pycache__/
 # OS / editor noise
 .DS_Store
 Thumbs.db
+
+venv/
+.env
+__pycache__/
+*.pyc
+.git/
+Ev1-web/.git
